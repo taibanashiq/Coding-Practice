@@ -22,10 +22,10 @@ int main()
     second=(struct Node*)malloc(sizeof(struct Node));
     third=(struct Node*)malloc(sizeof(struct Node));
 
-    head->data=7;
+    head->data=1;
     head->next=second;
 
-    second->data=10;
+    second->data=2;
     second->next=third;
 
     third->data=23;
