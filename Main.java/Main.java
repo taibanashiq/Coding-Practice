@@ -1,13 +1,30 @@
-
 import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args) {
-        Scanner input=new Scanner(System.in);
-        // System.out.println("please enter some input:");
-        // int rollno=input.nextInt();
-        // System.out.println("your roll no is:"+rollno);
-    int marks=input.nextInt();
-    System.out.println("my marks are:"+marks);
-   
-    }
+        Scanner input = new Scanner(System.in);
+
+    //     int num1 = input.nextInt();
+    //     int num2 = input.nextInt();
+
+    //     int sum = num1 + num2;
+
+    //     System.out.println("sum = " + sum);
+
+    //    input.close();
+// int num=(int)(67.56f);
+// System.out.println(num);
+// 
+// int count=1;
+// while(count!=5){
+//     System.out.println(count);
+//     count++;
+// }
+// 
+for(int count=0;count<=5;count++){
+    
+    System.out.println(count);
+}
+}
+    
 }
