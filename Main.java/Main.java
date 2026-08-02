@@ -21,10 +21,16 @@ public class Main {
 //     count++;
 // }
 // 
-for(int count=0;count<=5;count++){
+// for(int count=0;count<=5;count++){
     
-    System.out.println(count);
+//     System.out.println(count);
+// }
+// i
+int num=1;
+do{
+    System.out.println(num);
+    num++;
+}while(num<=5);
 }
 }
     
-}
